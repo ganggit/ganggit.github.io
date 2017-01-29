@@ -42,7 +42,7 @@ It provides the math basics, such as linear algebra, probability and sets. Also 
 
 ## Comments or Contact
 
-Because it is just an initial version, this still large space to improve the content and quality. Any comments are welcome. 
+Because it is just an initial version, there is large space to improve the content and quality. Any comments are welcome. 
 
 
 ```markdown 
