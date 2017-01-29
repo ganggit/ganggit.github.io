@@ -14,7 +14,7 @@ In addition, this book covers most machine learning topics, such as surprised le
 
 ## Book content
 
-This book covers this main topics in machine learning: supervised learning, semi-supervised learning and unsupervised learning. 
+This book covers these main topics in machine learning: supervised learning, semi-supervised learning and unsupervised learning. 
 
 ### Supervised learning
 
@@ -27,6 +27,10 @@ It focuses on clustering methods, such as k-means, gaussian mixture models and s
 ### Semi-supervised learning 
 
 As a mixture of the above topics, it highlights the classification problems with partial labels and clustering problems with pairwise constraints. 
+
+### Sequential models
+
+We separate it from above, because these parts might belong to supervised or unsupervised topics. It emphasizes hidden markov model(HMM) and conditional random fields. The expectation–maximization (EM) algorithm is introduced to learn HMM model.
 
 ### Current trends
 
