@@ -1,6 +1,6 @@
 ## Welcome to a machine learning Page
 
-This is a site of the [machine learning book](https://github.com/ganggit/ganggit.github.io/blob/master/machine_learning.pdf), with the purpose to create a community with resource sharing and learning.
+This is a site of the book [machine learning: basics, models and trends](https://github.com/ganggit/ganggit.github.io/blob/master/machine_learning.pdf), with the purpose to create a community with resource sharing and learning.
 
 ## Introduction
 
